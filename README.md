@@ -20,8 +20,8 @@
 
 ## 📥 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/polienko/android_DiceRoller/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/v/release/polienko/android_DiceRoller?style=for-the-badge&logo=github)](https://github.com/polienko/android_DiceRoller/releases)
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/polienko/android-dice-rolling-app/releases/latest)
+[![GitHub Releases](https://img.shields.io/github/v/release/polienko/android_DiceRoller?style=for-the-badge&logo=github)](https://github.com/polienko/android-dice-rolling-app/releases)
 
 </div>
 
@@ -52,6 +52,6 @@
 ### Installation
 
 ```bash
-git clone https://github.com/polienko/android_DiceRoller.git
-cd android_DiceRoller
+git clone https://github.com/polienko/android-dice-rolling-app.git
+cd android-dice-rolling-app
 # Open in Android Studio and build
